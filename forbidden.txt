@@ -13,7 +13,6 @@
 !fill-in
 !fill-out
 !front-end
-!Github
 !hard-code
 !i/o
 !iot
