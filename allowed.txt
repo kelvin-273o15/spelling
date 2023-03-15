@@ -1,6 +1,8 @@
 paramountpetroleum
 paramountpetroleum.ph
 ph.paramountpetroleum.mobile
+codespace
+github
 codemagic
 github
 solana
