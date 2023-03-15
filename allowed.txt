@@ -2,9 +2,11 @@ paramountpetroleum
 paramountpetroleum.ph
 ph.paramountpetroleum.mobile
 codespace
-github
+Codespace
 codemagic
+Codemagic
 github
+Github
 solana
 blazingly
 codegen
