@@ -1,3 +1,4 @@
+agvtool
 alloc
 appbundle
 appstore
@@ -7,6 +8,7 @@ commandline
 curent
 firebase
 genkey
+genhtml
 github
 gitusername
 keyalg
@@ -14,10 +16,12 @@ keychain
 keysize
 keytool
 kgxfuo
-leftside
 lcov
+leftside
+leoafarias
 macbook
 mryuuu
+paramountpetroleum
 pbcopy
 playstore
 publickey
@@ -35,6 +39,7 @@ xcassets
 xcconfig
 xcplayground
 xcproj
+xcrun
 xcrunner
 xcscheme
 xcshareddata
@@ -42,10 +47,6 @@ xctest
 xctemplate
 xctool
 xctrunner
-xcrun
+xclip
 Codespace
 GCLOUD
-genhtml
-paramountpetroleum
-xclip
-leoafarias
