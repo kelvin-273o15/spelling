@@ -44,3 +44,8 @@ xctemplate
 xctool
 xctrunner
 xcrun
+Codespace
+GCLOUD
+genhtml
+paramountpetroleum
+xclip
